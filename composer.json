@@ -10,9 +10,9 @@
             "email": "andrey.derma@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
-        "yiisoft/yii2": "*",
-        "hamada/yii2-dermadropzone": "dev-master"
+        "yiisoft/yii2": "2.0.*"
     },
     "autoload": {
         "psr-4": {
